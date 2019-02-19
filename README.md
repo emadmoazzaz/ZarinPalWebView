@@ -1,4 +1,4 @@
-ماژول ZarinPal_Payment 
+<b> ماژول: ZarinPal_Payment</b> 
 
 <div dir="rtl">
 متن کامنت با فرمت مارک‌داون
